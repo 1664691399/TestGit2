@@ -7,4 +7,14 @@ package wxhl.com.testgit2;
 public class BCD {
 
     private int money;
+    private String name;
+
+    private void getAbs(){
+
+        int a = 0 ;
+        System.out.print("llala " + a);
+        for (;;){
+
+        }
+    }
 }
