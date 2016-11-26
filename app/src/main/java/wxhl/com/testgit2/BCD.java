@@ -16,14 +16,15 @@ public class BCD {
 
         int a = 0 ;
         String nmae = "sex";
-        List<Integer> integers = new ArrayList<>();
+        while (name .length() >0){
+
+        }
         System.out.print("llala " + a);
         for (int c = 0; c < 10; c++){
-            integers.contains(1);
         }
 
         int ac = 0 ;
-
+        System.out.print("");
 
     }
 }
