@@ -5,4 +5,7 @@ package wxhl.com.testgit2;
  */
 
 public class Human {
+
+    private String name ;
+
 }
