@@ -5,4 +5,6 @@ package wxhl.com.testgit2;
  */
 
 public class BCD {
+
+    private int money;
 }
